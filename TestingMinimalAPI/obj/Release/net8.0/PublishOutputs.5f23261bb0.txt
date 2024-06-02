@@ -1,0 +1,12 @@
+/workspaces/dotnet/apiRelease/TestingMinimalAPI
+/workspaces/dotnet/apiRelease/appsettings.Development.json
+/workspaces/dotnet/apiRelease/appsettings.json
+/workspaces/dotnet/apiRelease/TestingMinimalAPI.dll
+/workspaces/dotnet/apiRelease/TestingMinimalAPI.deps.json
+/workspaces/dotnet/apiRelease/TestingMinimalAPI.runtimeconfig.json
+/workspaces/dotnet/apiRelease/TestingMinimalAPI.pdb
+/workspaces/dotnet/apiRelease/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/dotnet/apiRelease/Microsoft.OpenApi.dll
+/workspaces/dotnet/apiRelease/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/dotnet/apiRelease/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/dotnet/apiRelease/Swashbuckle.AspNetCore.SwaggerUI.dll

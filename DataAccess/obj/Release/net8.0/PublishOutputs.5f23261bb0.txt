@@ -1,0 +1,12 @@
+/workspaces/dotnet/apiRelease/DataAccess.dll
+/workspaces/dotnet/apiRelease/DataAccess.deps.json
+/workspaces/dotnet/apiRelease/DataAccess.pdb
+/workspaces/dotnet/apiRelease/Dapper.dll
+/workspaces/dotnet/apiRelease/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/dotnet/apiRelease/Microsoft.Extensions.Primitives.dll
+/workspaces/dotnet/apiRelease/System.Data.SqlClient.dll
+/workspaces/dotnet/apiRelease/runtimes/win-arm64/native/sni.dll
+/workspaces/dotnet/apiRelease/runtimes/win-x64/native/sni.dll
+/workspaces/dotnet/apiRelease/runtimes/win-x86/native/sni.dll
+/workspaces/dotnet/apiRelease/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/workspaces/dotnet/apiRelease/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

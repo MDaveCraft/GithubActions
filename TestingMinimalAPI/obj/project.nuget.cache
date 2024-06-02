@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1qSzHG5mIsQTvoBS8ZgcSY+UgandR4OvO8IBcFrup8Ysl+FolxxONnTWjVNsa0fXZub5se8QAMam6S5SCf55Hw==",
+  "dgSpecHash": "RzOgSDaG1yc=",
   "success": true,
   "projectFilePath": "/workspaces/dotnet/TestingMinimalAPI/TestingMinimalAPI.csproj",
   "expectedPackageFiles": [
